@@ -17,6 +17,6 @@ getname()
 
 }
 /*var objectPerson = new Person();
-objectPerson.firstName ="Kabir";
+objectPerson.firstName ="Uday";
 console.log(objectPerson.firstName);
-console.log("sakdjlksaj");*/
+console.log("Reddy");*/
