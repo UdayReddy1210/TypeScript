@@ -15,6 +15,6 @@ this.lastname=lastname;
 class Admin extends Person{}
 class Manager extends Person{}
 
-let admin = new Admin("Syed","Kabir");
+let admin = new Admin("Uday","Reddy");
 
 admin.getname();
