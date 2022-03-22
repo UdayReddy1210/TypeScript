@@ -19,6 +19,6 @@ var greetHello;
 greetHello = greet();
 greetHello=2;
 console.log(greetHello);
-console.log("sdhjsahdsa");
+console.log("Hey");
 //=---------------------
 
